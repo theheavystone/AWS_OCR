@@ -39,11 +39,11 @@
       "function": {
         "OcrFunction": {
           "deploymentBucketName": "amplify-ocrwebapp-test-170fb-deployment",
-          "s3Key": "amplify-builds/OcrFunction-734751577a326f4a3458-build.zip"
+          "s3Key": "amplify-builds/OcrFunction-4d776a624436464b4845-build.zip"
         }
       },
       "api": {
-        "ocrApi": {}
+        "ocrGateway": {}
       }
     }
   }

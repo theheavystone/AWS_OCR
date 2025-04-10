@@ -1,6 +1,6 @@
 export type AmplifyDependentResourcesAttributes = {
   "api": {
-    "ocrApi": {
+    "ocrGateway": {
       "ApiId": "string",
       "ApiName": "string",
       "RootUrl": "string"

@@ -1,6 +1,6 @@
 {
   "api": {
-    "ocrApi": {
+    "ocrGateway": {
       "dependsOn": [
         {
           "attributes": [
