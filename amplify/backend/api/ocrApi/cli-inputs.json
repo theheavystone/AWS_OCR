@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/ocr": {
+      "name": "/ocr",
+      "lambdaFunction": "OcrFunction",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

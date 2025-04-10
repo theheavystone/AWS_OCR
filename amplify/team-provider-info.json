@@ -35,6 +35,15 @@
       },
       "storage": {
         "ocrImageStorage": {}
+      },
+      "function": {
+        "OcrFunction": {
+          "deploymentBucketName": "amplify-ocrwebapp-test-170fb-deployment",
+          "s3Key": "amplify-builds/OcrFunction-734751577a326f4a3458-build.zip"
+        }
+      },
+      "api": {
+        "ocrApi": {}
       }
     }
   }

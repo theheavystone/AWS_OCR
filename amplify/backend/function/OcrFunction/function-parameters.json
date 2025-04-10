@@ -1,0 +1,21 @@
+{
+  "lambdaLayers": [],
+  "permissions": {
+    "auth": {
+      "ocrwebapp817d4dcf": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "storage": {
+      "ocrImageStorage": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    }
+  }
+}
