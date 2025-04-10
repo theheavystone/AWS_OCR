@@ -10,6 +10,32 @@
       "StackName": "amplify-ocrwebapp-dev-585a5",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:924918964364:stack/amplify-ocrwebapp-dev-585a5/b89cff80-15eb-11f0-b937-0a9ac7f6063b",
       "AmplifyAppId": "d1v5du8a2kpb34"
+    },
+    "categories": {
+      "auth": {
+        "ocrwebapp817d4dcf": {}
+      }
+    }
+  },
+  "test": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ocrwebapp-test-170fb-authRole",
+      "UnauthRoleArn": "arn:aws:iam::924918964364:role/amplify-ocrwebapp-test-170fb-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::924918964364:role/amplify-ocrwebapp-test-170fb-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-ocrwebapp-test-170fb-deployment",
+      "UnauthRoleName": "amplify-ocrwebapp-test-170fb-unauthRole",
+      "StackName": "amplify-ocrwebapp-test-170fb",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:924918964364:stack/amplify-ocrwebapp-test-170fb/64a2ea40-15f3-11f0-a06a-0eacca462481",
+      "AmplifyAppId": "d1v5du8a2kpb34"
+    },
+    "categories": {
+      "auth": {
+        "ocrwebapp817d4dcf": {}
+      },
+      "storage": {
+        "ocrImageStorage": {}
+      }
     }
   }
 }

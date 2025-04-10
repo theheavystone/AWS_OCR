@@ -1,0 +1,17 @@
+{
+  "resourceName": "ocrImageStorage",
+  "policyUUID": "0f0813fc",
+  "bucketName": "ocr-upload-bucket",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "CREATE_AND_UPDATE",
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
